@@ -1,2 +1,1 @@
-# blog
-破山中贼易，破心中贼难
+# Hello VuePress!

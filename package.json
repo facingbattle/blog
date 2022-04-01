@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "vuepress": "1.9.7"
+  },
+  "devDependencies": {
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
   }
 }

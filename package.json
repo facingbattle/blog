@@ -1,5 +1,5 @@
 {
-  "name": "vuepress",
+  "name": " vuepress-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.9.7"
+  }
 }

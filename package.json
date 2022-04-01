@@ -1,8 +1,8 @@
 {
-  "name": " vuepress-blog",
+  "name": " vuepressBlog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "1.9.7"
   }
 }
